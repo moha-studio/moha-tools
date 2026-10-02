@@ -1,32 +1,39 @@
-> 🔒 **Distribution:** `moha-page-merge.zip` — password-protected official archive. PIN diye extract koro, tarpor `chrome://extensions` → Developer mode → Load unpacked.
+> 🔒 **Distribution:** `moha-page-merge.zip` — password-protected official archive. Extract with your PIN, then `chrome://extensions` → Developer mode → Load unpacked.
 
 ---
 
 # Moha Page Merge — by Moha Sumon
 
-Facebook Page merge korar professional assistant extension (v1.0.0).
+Professional assistant extension for merging Facebook Pages (v1.0.7).
 
-## Ja ja ache
+## Features
 
-1. **Auto Login Detect** — browser-e jei Facebook ID login thakbe, extension auto oi ID-er access nibe (c_user cookie theke). Notun admin holeo problem nai — request oi ID diyei jabe.
-2. **Merge Pair** — 2-ta page-er name / Page ID / URL daw (Source = jeta merge hoye jabe, Target = jeta thakbe). "Grab" button-e current tab-er page name auto niye ney.
-3. **Auto Checks** — name similarity check, login check, BM warning, notun-admin note.
-4. **Auto-Fill** — "Open Merge Page & Auto-Fill" chap dile `facebook.com/pages/merge` khulbe ar extension duita page dropdown-e auto-select korar try korbe. Final **"Request Merge" click tumi nije dibe** (safety).
-5. **Merge Tracker** — kon pair kobe request korla, status (requested/approved/rejected) — sob local-e save thake.
-6. **WhatsApp Help** — extension thekei direct WhatsApp-e help.
+1. **Auto Login Detect** — automatically uses whichever Facebook account is logged in to the browser (via the c_user cookie). Works even if you're a newly added admin — requests go out as that ID.
+2. **Merge Pair** — enter 2 pages by name / Page ID / URL (Source = the page that will be merged away, Target = the page that stays). The "Grab" button auto-fills the current tab's page name.
+3. **Auto Checks** — name similarity check, login check, Business Manager warning, new-admin note.
+4. **Auto-Fill** — "Open Merge Page & Auto-Fill" opens `facebook.com/pages/merge` and the extension tries to auto-select both pages in the dropdowns. You click the final **"Request Merge"** yourself (safety).
+5. **Merge Tracker** — every requested pair with date and status (requested / approved / rejected) — all saved locally.
+6. **WhatsApp Help** — get help directly over WhatsApp from inside the extension.
 
-## Install (tomar Chrome-e)
+## Install (on your Chrome)
 
-1. Zip extract koro (folder pabe: `moha-page-merge`)
-2. Chrome-e jaw: `chrome://extensions`
-3. Upor-dan "Developer mode" ON koro
-4. "Load unpacked" chap diye `moha-page-merge` folder select koro
-5. Toolbar-e extension pin kore naw
+1. Extract the zip (you'll get the `moha-page-merge` folder)
+2. Go to `chrome://extensions`
+3. Turn ON "Developer mode" (top right)
+4. Click "Load unpacked" and select the `moha-page-merge` folder
+5. Pin the extension to your toolbar
 
-## Mone rekho (honest kotha)
+## Please note (honest words)
 
-- Extension **request pathano fast kore**, kintu merge **approve kore Facebook nije** (manual review, 1–3 din lagte pare).
-- Duitar page-e **admin** hote hobe; **name/category similar** hote hobe — na hole reject ba page unpublished-er risk.
-- Source page-er **post/photo/settings hariye jabe** — age backup naw.
-- Page **Business Manager-e add thakle** merge dropdown-e nao ashte pare — tokhon direct profile admin hishebe try koro.
-- Bulk-e onek merge ekbare chalabe na — account restriction-er risk ache.
+- The extension **speeds up sending the request**, but Facebook itself **approves the merge** (manual review, can take 1–3 days).
+- You must be **admin** of both pages; names/categories should be **similar** — otherwise rejection or unpublishing risk.
+- The Source page's **posts / photos / settings will be lost** — back up first.
+- If a page is added to **Business Manager**, it may not appear in the merge dropdown — try as a direct profile admin instead.
+- Don't run many merges in bulk at once — account restriction risk.
+
+## 📞 Support
+
+- 📘 Facebook: [Moha Sumon](https://web.facebook.com/ss.pappa.l/)
+- 💬 WhatsApp: [+971526373563](https://wa.me/971526373563)
+
+© Moha Sumon — all rights reserved.

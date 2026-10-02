@@ -1,23 +1,23 @@
 # Video Prompt Architect — by Moha Sumon
 
-**AI video prompt skill** — jekono video idea ba reference video ke production-grade AI video prompt-e convert kore.
+**AI video prompt skill** — turns any video idea or reference video into production-grade AI video prompts.
 
-## ✨ Ki kaaj kore
+## ✨ What it does
 
 - 🎬 Video idea → cinematic, detailed prompt package (Sora, Runway, Kling, Pika, Luma)
-- 📼 Reference video analyze kore shot-by-shot breakdown
-- ✂️ Long video auto-split — 30s parts, frame continuity shoho
-- 🪝 Proti package-e first-3-seconds viral hook
-- 📱 Default 9:16 vertical, Facebook short-form optimized
+- 📼 Analyzes a reference video with a shot-by-shot breakdown
+- ✂️ Auto-splits long videos — 30s parts with frame continuity
+- 🪝 Every package ships with a first-3-seconds viral hook
+- 📱 Default 9:16 vertical, optimized for Facebook short-form
 
-## 📂 Files (zip-er vitore)
+## 📂 Files (inside the zip)
 
-- `video-prompt-architect/SKILL.md` — main skill
+- `video-prompt-architect/SKILL.md` — the main skill
 - `video-prompt-architect/references/` — lenses, prompt templates, long-video segmentation guides
 
 ## 📦 Distribution
 
-`video-prompt-architect-skill__1.zip` — **password-protected** official archive. PIN diye extract koro.
+`video-prompt-architect-skill__1.zip` — **password-protected** official archive. Extract with your PIN.
 
 ## 📞 Support
 

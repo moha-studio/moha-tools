@@ -1,25 +1,25 @@
 # Moha Downloader `v1.0.8` — by Moha Sumon
 
-**Universal video downloader** — jekono platform theke video download koro original HD quality-te.
+**Universal video downloader** — download videos from any platform in original HD quality.
 
-## ✨ Ki kaaj kore
+## ✨ What it does
 
-- 🔘 Sob page-e floating download button
-- 🌐 Network stream capture — hidden video stream dhore fele
-- 🧩 HLS (.m3u8) segment auto-merge
-- 🎞️ Original HD quality, **kono watermark nai**
-- 📁 Ek click-e MP4 save
+- 🔘 Floating download button on every page
+- 🌐 Network stream capture — grabs hidden video streams
+- 🧩 Auto-merges HLS (.m3u8) segments
+- 🎞️ Original HD quality, **no watermark**
+- 📁 One-click MP4 save
 
 ## 📦 Distribution
 
-`moha-downloader-yt.zip` — **password-protected** official archive. PIN diye extract koro.
+`moha-downloader-yt.zip` — **password-protected** official archive. Extract with your PIN.
 
 ## 🚀 Install
 
-1. Zip extract koro (PIN lagbe)
-2. `chrome://extensions` → **Developer mode** ON
-3. **Load unpacked** → extracted folder select koro
-4. Toolbar-e pin koro 📌
+1. Extract the zip (PIN required)
+2. Open `chrome://extensions` → turn ON **Developer mode**
+3. **Load unpacked** → select the extracted folder
+4. Pin it to your toolbar 📌
 
 ## 📞 Support
 

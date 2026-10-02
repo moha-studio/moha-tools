@@ -1,24 +1,24 @@
 # Moha Sumon Downloader `v1.3.0` — by Moha Sumon
 
-**Dola AI video downloader** — Dola AI video download koro **1080P, watermark chara**, 120 min porjonto.
+**Dola AI video downloader** — download Dola AI videos in **1080P with no watermark**, up to 120 minutes long.
 
-## ✨ Ki kaaj kore
+## ✨ What it does
 
-- 🎬 Dola AI video stream interceptor — original 1080P stream dhore
-- 🚫 Kono watermark add kore na
-- ⏱️ 120 min porjonto lomba video support
+- 🎬 Dola AI video stream interceptor — captures the original 1080P stream
+- 🚫 Adds no watermark
+- ⏱️ Supports videos up to 120 minutes
 - 🖤 Red/black theme, dragon logo
 
 ## 📦 Distribution
 
-`moha-downloader-dola.zip` — **password-protected** official archive. PIN diye extract koro.
+`moha-downloader-dola.zip` — **password-protected** official archive. Extract with your PIN.
 
 ## 🚀 Install
 
-1. Zip extract koro (PIN lagbe)
-2. `chrome://extensions` → **Developer mode** ON
-3. **Load unpacked** → extracted folder select koro
-4. Toolbar-e pin koro 📌
+1. Extract the zip (PIN required)
+2. Open `chrome://extensions` → turn ON **Developer mode**
+3. **Load unpacked** → select the extracted folder
+4. Pin it to your toolbar 📌
 
 ## 📞 Support
 

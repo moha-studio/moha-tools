@@ -17,18 +17,18 @@
 
 ---
 
-## 📦 Tools — ki kaaj kore
+## 📦 Tools — what each one does
 
-| # | Tool | Folder | Ki kaaj |
-|---|------|--------|---------|
+| # | Tool | Folder | What it does |
+|---|------|--------|--------------|
 | 1 | **Moha Page Pilot** `v1.4.6` | `extensions/moha-page-pilot` | All-in-one Facebook page automation suite — **bulk reel uploader** (multi-page, paced, identity-verified), **AI auto comment replies**, video downloader |
 | 2 | **Moha Page Merge** `v1.0.7` | `extensions/moha-page-merge` | Facebook Page merge assistant — auto login detect, merge pair auto-fill, request tracker, WhatsApp help |
-| 3 | **Moha Sumon Downloader** `v1.3.0` | `extensions/moha-downloader-dola` | Dola AI video downloader — **1080P, no watermark**, up to 120 min |
+| 3 | **Moha Sumon Downloader** `v1.3.0` | `extensions/moha-downloader-dola` | Dola AI video downloader — **1080P, no watermark**, videos up to 120 minutes |
 | 4 | **Moha Downloader** `v1.0.8` | `extensions/moha-downloader-yt` | Universal video downloader — floating button, network stream capture, HLS merging, original HD quality, no watermark |
 | 5 | **Moha Sumon Seedance 30s** | `extensions/moha-sumon-seedance-30s` | Seedance 2.5 package — 30-second AI videos from text or image |
 | 6 | **Video Prompt Architect** | `skills/video-prompt-architect` | Skill: turns any video idea / reference video into production-grade AI video prompts (Sora, Runway, Kling, Pika, Luma) — auto 30s segmentation, 9:16 viral format |
 
-> 🔒 Proti tool **password-protected zip** hishebe ache — official distribution archive. Extract korte PIN lagbe.
+> 🔒 Every tool ships as a **password-protected zip** — the official distribution archive. You need the PIN to extract.
 
 ## 📁 Structure
 
@@ -47,10 +47,10 @@ moha-tools/
 
 ## 🚀 Quick install (any extension)
 
-1. Tool-er zip extract koro (PIN lagbe)
-2. `chrome://extensions` → **Developer mode** ON
-3. **Load unpacked** → extracted folder (jekhane `manifest.json` ache) select koro
-4. Toolbar-e pin koro 📌
+1. Extract the tool's zip (PIN required)
+2. Open `chrome://extensions` → enable **Developer mode**
+3. **Load unpacked** → select the extracted folder (the one containing `manifest.json`)
+4. Pin it to your toolbar 📌
 
 ## 📞 Support
 

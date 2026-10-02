@@ -1,4 +1,4 @@
-> 🔒 **Distribution:** `moha-page-pilot.zip` — password-protected official archive. PIN diye extract koro, tarpor `chrome://extensions` → Developer mode → Load unpacked.
+> 🔒 **Distribution:** `moha-page-pilot.zip` — password-protected official archive. Extract with your PIN, then `chrome://extensions` → Developer mode → Load unpacked.
 
 ---
 
