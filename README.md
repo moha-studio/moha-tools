@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/tools-6-blue?style=flat-square" alt="6 tools"/>
-  <img src="https://img.shields.io/badge/locked-MOHA--SUMON-red?style=flat-square" alt="locked"/>
+  <img src="https://img.shields.io/badge/locked-password_protected-red?style=flat-square" alt="locked"/>
   <img src="https://img.shields.io/badge/platform-Chrome_MV3-green?style=flat-square" alt="Chrome MV3"/>
   <img src="https://img.shields.io/badge/made_by-Moha_Sumon-red?style=flat-square" alt="Moha Sumon"/>
 </p>
