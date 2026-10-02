@@ -12,7 +12,14 @@
   <img src="https://img.shields.io/badge/tools-6-blue?style=flat-square" alt="6 tools"/>
   <img src="https://img.shields.io/badge/locked-password_protected-red?style=flat-square" alt="locked"/>
   <img src="https://img.shields.io/badge/platform-Chrome_MV3-green?style=flat-square" alt="Chrome MV3"/>
+  <img src="https://img.shields.io/github/downloads/moha-studio/moha-tools/total?style=flat-square" alt="downloads"/>
   <img src="https://img.shields.io/badge/made_by-Moha_Sumon-red?style=flat-square" alt="Moha Sumon"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/moha-studio/moha-tools/releases/latest">
+    <img src="https://img.shields.io/badge/⬇_Download_All_Tools-v1.0.0-blue?style=for-the-badge" alt="Download all tools"/>
+  </a>
 </p>
 
 ---
@@ -52,6 +59,23 @@ moha-tools/
 3. **Load unpacked** → select the extracted folder (the one containing `manifest.json`)
 4. Pin it to your toolbar 📌
 
+## ❓ FAQ
+
+**Where do I get the PIN?**
+Message on WhatsApp [+971526373563](https://wa.me/971526373563) — you'll receive it there.
+
+**Which browsers are supported?**
+Any recent Chromium browser — Chrome, Edge, or Brave (all support Manifest V3 extensions).
+
+**Are these tools safe?**
+Yes. The zips are the official password-protected archives, and the extensions run locally in your own browser.
+
+**I downloaded from Releases — is that the same as the repo folders?**
+Yes, identical files. Releases is just the easiest one-click download page.
+
+**Can I share or resell these tools?**
+No — see the License section below.
+
 ## 📞 Support
 
 - 📘 Facebook: [Moha Sumon](https://web.facebook.com/ss.pappa.l/)
@@ -59,4 +83,4 @@ moha-tools/
 
 ## © License
 
-© Moha Sumon — all rights reserved. Free for personal use. Redistribution or resale without permission is not allowed.
+See [LICENSE](LICENSE). © Moha Sumon — all rights reserved. Free for personal use. Redistribution or resale without permission is not allowed.
